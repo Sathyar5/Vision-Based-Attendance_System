@@ -1,4 +1,4 @@
-# Vision-Based-Attendance_System
+# Vision-Based-Attendance-System
 
 It is a Computer Vision Based Attendance System with facial recognition., As of now we are taking the manual attendance to mark as present or absent. But all have to update with
 the technology that can make anyone’s work easy and accurate. In search of best things face recognition which cannot be masked can be used for attendance purpose accurately which helps
